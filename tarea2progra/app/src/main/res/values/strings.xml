@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registro de Huellas</string>
+    <string name="search_filters">Filtros de Búsqueda</string>
+    <string name="min_time_hint">Tiempo mín (s)</string>
+    <string name="max_time_hint">Tiempo máx (s)</string>
+    <string name="apply_filters_button">Aplicar Filtros y Generar Reporte</string>
+    <string name="report_results_placeholder">Resultados del reporte aparecerán aquí.</string>
+    <string name="time_filter">Filtro por Tiempo</string>
+</resources>
